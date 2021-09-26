@@ -1,0 +1,21 @@
+.header {
+    padding: 1rem;
+    width: 70%;
+    margin: auto;
+    text-align: justify;
+}
+
+.infoIcon {
+    cursor: pointer;
+    border: 1px solid gray;
+    border-radius: 999px;
+    padding: 0px 7px;
+    margin-left: 0.5rem;
+}
+
+.titleAndReviwes {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
